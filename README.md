@@ -9,7 +9,7 @@ Provides a dependency containing a lein uberjar. See [alembic](https://github.co
 ## Usage
 
 ```clj
-[lein-as-resource "2.7.1"]
+[me.zzp/lein-as-resource "2.7.1"]
 ```
 
 The lein uberjar is provided as "lein-standalone.jar".
